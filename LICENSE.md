@@ -1,4 +1,4 @@
-
+Enhance NordPass for macOS with updated NordPass for macOS Module | vulnerability-scanner + encryption, the #1 module. Includes vulnerability-scanner and encryption for a safer
 
 
 
